@@ -16,7 +16,7 @@ This week focuses on building interactive web applications using JavaScript. The
 
 ## Projects
 
-### ✅ Project 1 – Dark/Light Mode Toggle
+### Project 1 – Dark/Light Mode Toggle
 
 A simple theme switcher that allows users to toggle between dark and light modes. Built using JavaScript event listeners and DOM manipulation to dynamically update the page appearance.
 
@@ -29,10 +29,21 @@ A simple theme switcher that allows users to toggle between dark and light modes
 * Dynamic Text Updates
 * CSS Transitions
 
+###  Project 2 – Interactive Image Gallery
 
+A responsive image gallery that allows users to preview images, navigate using buttons, and browse through images using keyboard controls. Built using JavaScript event listeners, DOM manipulation, and state management.
 
-###  Project 2 – Coming Soon
+**Concepts Practiced:**
 
+- DOM Selection
+- Event Handling
+- State Management
+- Array Methods (`forEach`, `findIndex`)
+- Keyboard Events
+- Dynamic Class Manipulation
+- Conditional Logic
+- Responsive Design
+- Image Navigation Logic
 
 
 ###  Project 3 – Coming Soon
