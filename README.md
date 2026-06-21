@@ -46,7 +46,22 @@ A responsive image gallery that allows users to preview images, navigate using b
 - Image Navigation Logic
 
 
-###  Project 3 – Coming Soon
+###  Project 3 – FAQ Accordion
+
+A responsive FAQ Accordion built using HTML, CSS, and JavaScript. Users can expand and collapse FAQ items, view answers with smooth animations, and navigate through a clean, interactive interface.
+
+
+**Concepts Practiced:**
+
+- DOM Selection
+- Event Handling
+- State Management
+- Array Methods (`Array.from`, `forEach`)
+- Dynamic Class Manipulation
+- Conditional Logic
+- CSS Transitions & Animations
+- Flexbox Layout
+- Responsive Design
 
 
 
