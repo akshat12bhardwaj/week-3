@@ -64,9 +64,25 @@ A responsive FAQ Accordion built using HTML, CSS, and JavaScript. Users can expa
 - Responsive Design
 
 
+### Project 4 – Animated Navbar on Scroll
 
-###  Project 4 – Coming Soon
+A responsive Animated Navbar project built using HTML, CSS, and JavaScript. The navigation bar adapts to different screen sizes, includes a mobile hamburger menu, changes appearance on scroll, and features a dynamic scroll progress indicator for improved user experience.
 
+**Concepts Practiced:**
+
+- DOM Selection
+- Event Handling
+- Scroll Events
+- State Management
+- Array Methods (`forEach`)
+- Dynamic Class Manipulation
+- Conditional Logic
+- CSS Transitions & Animations
+- Responsive Design
+- Mobile Navigation
+- Smooth Scrolling
+- Scroll Progress Tracking
+- Flexbox Layout
 
 ## Learning Outcome
 
